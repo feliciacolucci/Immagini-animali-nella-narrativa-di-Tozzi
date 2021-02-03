@@ -1,6 +1,6 @@
 # Immagini-animali-nella-narrativa-di-Tozzi
 In questo repository sono stati raccolti i file del lavoro di tesi Immagini animali nella narrativa di Tozzi: un'analisi attraverso gli strumenti di linguistica computazionale.
-La digitalizzazione del corpus è avvenuta attraverso una scansione ottica dei testi, creando i file jpg presenti in questo repository.
+La digitalizzazione del corpus è avvenuta attraverso una scansione ottica dei testi, creando i file jpg.
 Il corpus è composto dalle raccolte Giovani, Bestie, Cose e Persone. I file txt che contengono i testi delle novelle di Bestie sono denominati con un nuemro progressivo e "tozzi.txt" quindi il file 01_tozzi.txt conterrà la prima novella di Bestie.
 Allo stesso modo i file 01_cose.txt e 01_persone.txt corrispondono rispettivamente alla prima novella di Cose e alla prima novella di Persone.
 I file della raccolta Giovani sono denominati con il titolo della novella, preceduto da un numero progressivo.
